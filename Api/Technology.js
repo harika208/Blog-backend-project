@@ -3,6 +3,7 @@ const get = (req, res) => {
 {
     title:"Metaverse Crimes Catches Interpol’s Attention, Here’s What We Know",
     content:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, ",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:": 6 February 2023 18:57 IST",
     author:"Richa Sharma",
     urlToImage:"https://i.gadgets360cdn.com/large/interpol_youtube_large_1675690039677.jpg?downsize=950:*",
@@ -11,6 +12,7 @@ const get = (req, res) => {
 {
     title:"Oppo F21s Pro 5G, Oppo F19s, Oppo A77s and More to Get Android 13-Based ColorOS 13 Update",
     content:"Oppo is in the process of rolling out Android 13-based ColorOS 13 software update a number of smartphones in India and other regions.",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     author:"Richa Sharma",
     publishedAt:" 6 February 2023 17:02 IST",
     urlToImage:"https://i.gadgets360cdn.com/large/oppo_f21s_pro_5g_launch_1663227378502.jpg?downsize=950:*",
@@ -20,6 +22,7 @@ const get = (req, res) => {
 {
     title:"Oppo Find N2 Flip Could Cost Around EUR 1,200 in Global Markets: Report",
     content:"Oppo Find N2 Flip is expected to be unveiled for the global markets at the Mobile World Congress Barcelona 2023 event, which is set to take place in February",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:"6 February 2023 15:21 IST",
     author:"Siddhant Chandra",
     urlToImage:"https://i.gadgets360cdn.com/large/oppo_find_n2_flip_1675677040212.jpg?downsize=950:*",
@@ -29,6 +32,7 @@ const get = (req, res) => {
 {
     title:"Outlier Air Pro 3 lay claim to a world first for TWS earbuds on launch - Notebookcheck.net",
     content:"Although Marshall is best known for its guitar amplifiers, the brand also has a rather impressive presence in the personal audio segment. Marshall headphones and speakers",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:"20 January 2023 17:18 IS",
     author:"Ali Pardiwala",
     urlToImage:"https://i.gadgets360cdn.com/large/marshall_stanmore_iii_review_main_1674192835664.jpg?downsize=950:*",
@@ -37,6 +41,7 @@ const get = (req, res) => {
 {
     title:"Dell to Lay Off About 6,650 Employees Amidst Falling Demand for PCs: Report",
     content:"Dell Technologies will eliminate about 6,650 jobs, or about five percent of its global workforce, hurt by falling demand for its personal computers, Bloomberg News reported on Monday.",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:" 6February 2023 14:02 IST",
     author:"Reuters",
     urlToImage:"https://i.gadgets360cdn.com/large/dell_reuters__1675672313576.jpg?downsize=950:*",
@@ -46,6 +51,7 @@ const get = (req, res) => {
 {
     title:"iPhone ‘Ultra’ in the Works, Said to Offer Better Features Than Pro Models: Mark Gurman",
     content:"Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. ",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:"6 February 2023 12:27 IST",
     author:"Sheldon Pinto",
     urlToImage:"https://i.gadgets360cdn.com/large/iphone_14_pro_max_apple_1666942701797.jpg?downsize=950:*",
@@ -55,6 +61,7 @@ const get = (req, res) => {
 {
     title:"Telegram Gets Real Time Chat Translation, Annual Premium Subscription, and More in Latest Update",
     content:"This was the first major update Telegram received in 2023 and the firm said they are already working on the next one.",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:" 6 February 2023 17:05 IST",
     author:"Sucharitha Ganguly",
     urlToImage:"https://i.gadgets360cdn.com/large/telegram_logo_unsplash_1675683255904.jpg?downsize=950:*",
@@ -64,6 +71,7 @@ const get = (req, res) => {
 {
     title:"Yamaha TW-E7B True Wireless Earphones Review: They Grow On You With ANC ",
     content:"with ANC and Qualcomm aptX Adaptive support, is this the best sounding pair of true wireless earphones you can buy right now?",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:"28 December 2022 17:08 IST",
     author:"Ali Pardiwala",
     urlToImage:"https://i.gadgets360cdn.com/large/yamaha_tw_e7b_review_main_1672215183808.jpg?downsize=950:*",
@@ -73,6 +81,7 @@ const get = (req, res) => {
 {
     title:"Twitter Sued for $1.6 Million by Advisory Firm Over Unpaid Bills After Elon Musk Acquisition",
     content:"US-based advisory firm Innisfree M&A Incorporated sued Twitter on Friday in New York State Supreme Court, seeking about $1.9 million (roughly Rs. 15.7 crore)",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:" 6 February 2023 16:23 IST",
     author:"Reuters",
     urlToImage:"https://i.gadgets360cdn.com/large/twitter_logo_phone_reuters_1599803329254.jpg?downsize=950:*",
@@ -82,6 +91,7 @@ const get = (req, res) => {
 {
     title:"Google Chrome Working on Option to Quickly Delete 15 Minutes of Browsing History: Report",
     content:"Google Chrome currently allows users to clear as little as one hour of their browsing history.",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:" 6 February 2023 15:40 IST",
     author:"Himani Jha",
     urlToImage:"https://i.gadgets360cdn.com/large/google_chrome_pexels_full_1559127939107.jpg?downsize=950:*",
@@ -93,6 +103,7 @@ const get = (req, res) => {
 {
     title:"Dead Space Review: A Bloodcurdling Return to the Ishimura",
     content:"Who would’ve guessed? 14 years later, the horror elements are still as effective",
+    content1:"The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol,",
     publishedAt:"2 February 2023 19:44 IST",
     author:"Rahul Chettiar",
     urlToImage:"https://i.gadgets360cdn.com/large/Dead_Space_review_1675346226622.jpg?downsize=950:*",
